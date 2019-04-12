@@ -10,6 +10,8 @@
  <h5> Steps to add color</h5>
     <ol>
   <li>You have to add the style tag to your lovely webpage. The style tag is ...<style>. I bet no one saw that one coming.  </li>
-  <li>Now you need to decide </li>
+  <li>Now you need to decide what it is you want to change the color of. For the sake of the purpose I am going to change my list title </li>
+  <li>Now you need to choose a color. I think I will change the title bright pink</li>
+  <li>Since I made my 
   
     
