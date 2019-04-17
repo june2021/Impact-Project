@@ -1,4 +1,7 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
         <title>Beginner's Guide to CSS</title>
     </head>
     <body>
@@ -17,12 +20,12 @@
         <ol>
             <li>The first step to adding color to a webpage is adding the style tag. This tag essentially lets the browser know that everything in the page will be using CSS. The style tag is... <style>.</li>
             <li></li>
-        
         </ol>
+      
     
    
 
 
     
-    </body>
+   </body>
 </html>
