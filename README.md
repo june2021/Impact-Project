@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Beginner's Guide to CSS</title>
+    <style></style>
+  </head>
+  <body>
+  
+ 
 <h1>CSS</h1>
 
 <p>Before I dive into the ins and outs of CSS why don't we start with a little background?
@@ -12,6 +22,7 @@
   <li>You have to add the style tag to your lovely webpage. The style tag is ...<style>. I bet no one saw that one coming.  </li>
   <li>Now you need to decide what it is you want to change the color of. For the sake of the purpose I am going to change my list title </li>
   <li>Now you need to choose a color. I think I will change the title bright pink</li>
-  <li>Since I made my 
+  <li>Since
   
-    
+   </body>
+</html>
