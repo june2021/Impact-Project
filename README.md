@@ -1,16 +1,31 @@
-<h1>Beginner's Guide to CSS</h1>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Beginner's Guide to CSS</title>
+    </head>
+    <body>
 
-<p>Before I dive into the ins and outs of CSS why don't we start with a little background?
-  <br> Ok! So CSS stands for Cascading Style Sheet and I don't really know what the means but essentially with CSS you get to add style to a webpage. Whcih if you're like me is a good thing because looking at a colorless and bland webpage is not that fun so you definitely want to learn how to spice up your coding skills. </p>
+    <h1>CSS</h1>
+    
+        <p>Before I dive into the ins and outs of CSS why don't we start with a little background?</p>
+        <p>Ok! So CSS stands for Cascading Style Sheet. I don't know really know what that exactly means but essentially CSS spices up the webpage by adding style to it. This is a good thing if you are like me because looking at a black and white screen is a bit dull. Learniing CSS will add some depth to your coding skills and make your webpages look a lit cooler.</p>
+        
+    <h3>Color!!!</h3>
+        
+        <p>So the first thing to learn about CSS is the color attribute. This will really make your website pop!</p>
+        
+    <h4>Steps to Adding Color </h4>
+        
+        <ol>
+            <li>The first step to adding color to a webpage is adding the style tag. This tag essentially lets the browser know that everything in the page will be using CSS. The style tag is... <style>.</li>
+            <li></li>
+        
+        </ol>
+    
+   
 
-<h3>Color!!!</h3>
-  
-  <p> So the first thing we are going to learn about is how to add color to a webpage because looking at black and white webscreen after black and white webscreen is never fun</p>
-  
- <h5> Steps to add color</h5>
-    <ol>
-  <li>You have to add the style tag to your lovely webpage. The style tag is ...<style>. I bet no one saw that one coming.  </li>
-  <li>Now you need to decide what it is you want to change the color of. For the sake of the purpose I am going to change my list title </li>
-  <li>Now you need to choose a color. I think I will change the title bright pink</li>
-  <li>Since
-  
+
+    
+    </body>
+</html>
